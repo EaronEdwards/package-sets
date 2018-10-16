@@ -332,6 +332,11 @@
     "repo": "https://github.com/slamdata/purescript-css.git",
     "version": "v4.0.0"
   },
+  "data-default": {
+    "dependencies": [],
+    "repo": "https://github.com/nkly/purescript-data-default.git",
+    "version": "v0.1.0"
+  },
   "datetime": {
     "dependencies": [
       "bifunctors",
