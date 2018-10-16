@@ -335,7 +335,7 @@
   "data-default": {
     "dependencies": [],
     "repo": "https://github.com/nkly/purescript-data-default.git",
-    "version": "v0.1.0"
+    "version": "0.1.0"
   },
   "datetime": {
     "dependencies": [
