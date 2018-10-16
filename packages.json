@@ -476,7 +476,7 @@
   },
   "express": {
     "dependencies": [
-      "aff",
+      "data-default",
       "foreign",
       "foreign-generic",
       "node-http",
