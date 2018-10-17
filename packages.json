@@ -484,7 +484,8 @@
       "data-default",
       "foreign",
       "foreign-generic",
-      "node-http"
+      "node-http",
+      "test-unit"
     ],
     "repo": "https://github.com/nkly/purescript-express.git",
     "version": "v0.7.0"
